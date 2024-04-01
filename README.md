@@ -21,13 +21,3 @@ docker run -d -e OPENAI_API_KEY=<YOUR_API_KEY> -e TTS_PROVIDER=EDGETTS -e EDGETT
 ```
 5. Navigate to `localhost:8000` in a modern browser
 
-
-
-<br/>
-
-## One Click Deployment
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/XxIOWs?referralCode=VcOv5G)
-
-
-## Find this useful?
-Please star this repository! It helps contributors gauge the popularity of the repo and determine how much time to allot to development.
