@@ -1,8 +1,6 @@
 ## Run it Locally  
 1. Clone the repo
-```bash
-git clone git@github.com:lspahija/AIUI.git
-```
+
 2. Change directory to AIUI
 ```bash
 cd AIUI
